@@ -22,3 +22,4 @@ public class UserService {
         }
     }
 }
+// Compare this snippet from src/main/java/com/example/mock_test_practice/service/UserServiceTest.java:
